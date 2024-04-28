@@ -13,7 +13,8 @@ while True:
     elif number > random_number:
         print('Ваше число больше того, что загадано.') 
 
-    else:
+    elif number == random_number:
+        
 
         break
 
